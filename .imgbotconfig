@@ -1,0 +1,8 @@
+{
+    "schedule": "daily",
+    "ignoredFiles": [
+    	"hero",
+      "others"
+    ],
+    "aggressiveCompression": "false"
+}
